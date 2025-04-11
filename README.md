@@ -3,8 +3,8 @@
 
 # Agenda
  - What is coding interview and What to expect in coding interviews?
+ - How to prepare for coding interviews.
  - How to approach a coding problem?
- - How to prepare coding interviews.
  - Solve a Coding Problem
  - Solve another Coding Problem
  - 30 excercise
