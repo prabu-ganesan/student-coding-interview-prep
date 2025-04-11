@@ -11,16 +11,13 @@
  - 20 Discuss what each team came up with 
 
 # How to prepare for the coding interview
-- Use patterns to solve problems before moving to next pattern for better grasping of the Algorithms and Data structures.
+- "There may be an infinite number of problems, but the good news is that many of them share common patterns in how they can be solved. Think of it like building different types of houses — while each house is unique, the core tools and techniques used remain largely the same. Similarly, most coding problems can be tackled using a familiar set of algorithms and data structures. The key is to learn how to recognize the nature of a problem and apply the right strategies accordingly. Strength your grasping on a pattern before moving on to the next one. Keep refreshing the patterns periodically until you internalize them!" 
 - Learn how to reach a solution rather than learning a solution.
 - Break down a problem into sub-problems and build overall solution by building solutions for sub-problems and combining them. 
 ![image](https://github.com/user-attachments/assets/7e24ba20-f285-44d3-9379-8561531a18f7)
 
 # How to approach a coding problem
 ![image](https://github.com/user-attachments/assets/819f9ecd-954f-4646-a3c2-ac04efbf05a4)
-
-What to Study?
-![image](https://github.com/user-attachments/assets/67923cbb-c7c7-4ee8-a825-ad40428ccf11)
 
 ## 1. Pattern: Two Pointers
 - Move Zeroes https://leetcode.com/problems/move-zeroes/
