@@ -11,7 +11,10 @@
  - 20 Discuss what each team came up with 
 
 # How to prepare for the coding interview
-![image](https://github.com/user-attachments/assets/cd3f9e0f-1fa6-4a71-a772-3c25977bbeb7)
+- Use patterns to solve problems before moving to next pattern for better grasping of the Algorithms and Data structures.
+- Learn how to reach a solution rather than learning a solution.
+- Break down a problem into sub-problems and build overall solution by building solutions for sub-problems and combining them. 
+![image](https://github.com/user-attachments/assets/7e24ba20-f285-44d3-9379-8561531a18f7)
 
 # How to approach a coding problem
 ![image](https://github.com/user-attachments/assets/819f9ecd-954f-4646-a3c2-ac04efbf05a4)
@@ -19,8 +22,19 @@
 What to Study?
 ![image](https://github.com/user-attachments/assets/67923cbb-c7c7-4ee8-a825-ad40428ccf11)
 
+## 1. Pattern: Two Pointers
+- Move Zeroes https://leetcode.com/problems/move-zeroes/
+- Pair with Target Sum (easy) https://leetcode.com/problems/two-sum/
+- Remove Duplicates (easy) https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- Squaring a Sorted Array (easy) https://leetcode.com/problems/squares-of-a-sorted-array/
+- Triplet Sum to Zero (medium) https://leetcode.com/problems/3sum/
+- Triplet Sum Close to Target (medium) https://leetcode.com/problems/3sum-closest/
+- Triplets with Smaller Sum (medium) https://leetcode.com/problems/3sum-smaller/
+- Subarrays with Product Less than a Target (medium) * https://leetcode.com/problems/subarray-product-less-than-k/
+- Problem Challenge 1 - Quadruple Sum to Target (medium) *
+- String Compression https://leetcode.com/problems/string-compression/
 
-## 1 Pattern: Sliding Window
+## 2 Pattern: Sliding Window
 #### Types
  - Sliding window with fixed window size.
  - Dynamic sliding Window. Cater-piller technique where left follows the right based on the criteria.
@@ -38,18 +52,6 @@ What to Study?
 - Problem Challenge 2 - String Anagrams (hard)
 - Problem Challenge 3 - Smallest Window containing Substring (hard) *
 - Problem Challenge 4 - Words Concatenation (hard) 
-
-## 2. Pattern: Two Pointers
-- Move Zeroes https://leetcode.com/problems/move-zeroes/
-- Pair with Target Sum (easy) https://leetcode.com/problems/two-sum/
-- Remove Duplicates (easy) https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-- Squaring a Sorted Array (easy) https://leetcode.com/problems/squares-of-a-sorted-array/
-- Triplet Sum to Zero (medium) https://leetcode.com/problems/3sum/
-- Triplet Sum Close to Target (medium) https://leetcode.com/problems/3sum-closest/
-- Triplets with Smaller Sum (medium) https://leetcode.com/problems/3sum-smaller/
-- Subarrays with Product Less than a Target (medium) * https://leetcode.com/problems/subarray-product-less-than-k/
-- Problem Challenge 1 - Quadruple Sum to Target (medium) *
-- String Compression https://leetcode.com/problems/string-compression/
   
 ## 3. Pattern: Tree Depth First Search
 Traversals
