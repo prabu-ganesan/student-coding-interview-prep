@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/9d57b043-8479-4b5c-957f-baebcac77309)
 
+![image](https://github.com/user-attachments/assets/334f2af8-3ec3-4f86-891e-afff4b53f7da)
+
+
 What to Study?
 ![image](https://github.com/user-attachments/assets/67923cbb-c7c7-4ee8-a825-ad40428ccf11)
 
