@@ -2,16 +2,13 @@
 ![image](https://github.com/user-attachments/assets/9d57b043-8479-4b5c-957f-baebcac77309)
 
 # Agenda
-10 Introduction
- - What to expect in coding interviews?
+ - What is coding interview and What to expect in coding interviews?
  - How to approach a coding problem?
- - How to prepare coding interviews. 
-20 first code
-30 excercise
-20 verbalize
-20 talk about one of the exercise problems. 
-Slinding Window if there is time. 
-20 second code
+ - How to prepare coding interviews.
+ - Solve a Coding Problem
+ - Solve another Coding Problem
+ - 30 excercise
+ - 20 Discuss what each team came up with 
 
 # How to prepare for the coding interview
 ![image](https://github.com/user-attachments/assets/cd3f9e0f-1fa6-4a71-a772-3c25977bbeb7)
