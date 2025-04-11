@@ -1,4 +1,9 @@
+# Introduction
 ![image](https://github.com/user-attachments/assets/9d57b043-8479-4b5c-957f-baebcac77309)
+
+# How to prepare for the coding interview
+![image](https://github.com/user-attachments/assets/cd3f9e0f-1fa6-4a71-a772-3c25977bbeb7)
+
 
 ![image](https://github.com/user-attachments/assets/334f2af8-3ec3-4f86-891e-afff4b53f7da)
 
