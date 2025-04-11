@@ -13,9 +13,8 @@
 # How to prepare for the coding interview
 ![image](https://github.com/user-attachments/assets/cd3f9e0f-1fa6-4a71-a772-3c25977bbeb7)
 
-
-![image](https://github.com/user-attachments/assets/334f2af8-3ec3-4f86-891e-afff4b53f7da)
-
+# How to approach a coding problem
+![image](https://github.com/user-attachments/assets/819f9ecd-954f-4646-a3c2-ac04efbf05a4)
 
 What to Study?
 ![image](https://github.com/user-attachments/assets/67923cbb-c7c7-4ee8-a825-ad40428ccf11)
