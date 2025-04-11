@@ -11,7 +11,9 @@
  - 20 Discuss what each team came up with 
 
 # How to prepare for the coding interview
+
 ![image](https://github.com/user-attachments/assets/04cf2d18-9d0a-4e75-9770-d124807066fd)
+
 - There may be an infinite number of coding problems, but many of them share common solution patterns.
 - Think of it like building different types of houses — each is unique, but the core tools and techniques stay the same. Likewise, most coding problems can be solved using a familiar set of algorithms and data structures.
 - What is the key? The key is to identify the nature of the problem and apply the appropriate strategy.
