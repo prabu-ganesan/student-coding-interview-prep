@@ -1,5 +1,6 @@
-# student-coding-interview-prep
-student-coding-interview-prep
+Introduction
+![image](https://github.com/user-attachments/assets/9d57b043-8479-4b5c-957f-baebcac77309)
+
 ## 1 Pattern: Sliding Window
 #### Types
  - Sliding window with fixed window size.
